@@ -1,0 +1,19 @@
+April 19, 2022
+Anthony Franklin afranklin18@cnm.edu
+FranklinP8
+***** PROGRAM TO DEMONSTRATE CIRCULAR QUEUE USING UNIQUE_PTR *****
+
+The queue is empty.
+Adding HALL, MISTY 
+Adding HORTON, RUBEN 
+Adding HALL, DOUGLAS 
+First in queue is HALL, MISTY 
+First in queue is HALL, MISTY 
+First in queue is HALL, MISTY 
+Removing the first person in the queue: HALL, MISTY 
+There are 2 Persons in the queue: 
+HORTON, RUBEN         HALL, DOUGLAS         
+
+
+The size of the queue is 2
+CirQueue now out of scope.
